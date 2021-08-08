@@ -13,9 +13,9 @@ This program is a perfect tool to manage all members of organization and company
 ## A finalized actual sample for README FILE
 ![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/2021-08-08%20(3).png?raw=true)
 
-✔beautiful frame
-✔Easy to manage
-✔Keep essential information
+* ✔beautiful frame
+* ✔Easy to manage
+* ✔Keep essential information
 
 
 ## 🚩How to execute it? Check the video for instruction
