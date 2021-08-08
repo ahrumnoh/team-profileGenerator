@@ -28,9 +28,9 @@ This program is a perfect tool to manage all members of organization and company
 ## Installation 
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
 
-$ git clone 
-$ cd readme-generator.git
-$ npm install --save-dev
+* ✔$ git clone 
+* ✔$ cd readme-generator.git
+* ✔$ npm install --save-dev
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
