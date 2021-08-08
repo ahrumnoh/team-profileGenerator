@@ -1,6 +1,6 @@
 ## ⛅Welcome to 'Team-Profile-Generator'
 
-![Readme Generator](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/README%20GENERATOR.jpg?raw=true)
+![Readme Generator](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Team%20profile%20-generator.jpg?raw=true)
 
 
 
@@ -11,7 +11,7 @@
 
 
 ## A finalized sample for README FILE
-![README FILE](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/2021-08-01%20(2).png?raw=true)
+![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/2021-08-08%20(3).png?raw=true)
 
 
 
@@ -25,13 +25,15 @@
 
 ## 😎 What can you add in this ganerator ?
 
-* Title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-* This is displayed as the title of the README
-* Installation instructions, usage information, contribution guidelines, and test instructions
-* Is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-* Can choose a license for my application from a list of options
+* my team members and their information
+* email address in the HTML
 * GitHub username
-* Email address
+* Team manager’s name, employee ID, email address, and office number
+* Engineer option
+* Engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
+* Intern’s name, ID, email, and school, and I am taken back to the menu
+* Exit the application, and the HTML is generated
+
 
 
 ❤ Thank you so much for your time :)
