@@ -6,18 +6,21 @@
 
 ## Overview
 
+This program is a perfect tool to manage all members of organization and company's profiles information.
 
 
 
-
-## A finalized sample for README FILE
+## A finalized actual sample for README FILE
 ![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/2021-08-08%20(3).png?raw=true)
 
+✔beautiful frame
+✔Easy to manage
+✔Keep essential information
 
 
 ## 🚩How to execute it? Check the video for instruction
  * Click the picture below 👇👇👇
-[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1Poi_Ld4tSZTTYtyCaCZzJoGFGlDOfoK5/view)
+[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1pOITXSYfYEfz9ZRY6YU4tQz2UqKvEvhb/view)
 
 
 
