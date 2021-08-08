@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Andada Pro', serif;;
+}
+
+:root {
+    --primary: rgb(104, 137, 139);
+    --secondary: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://source.unsplash.com/1600x900/?camping");
+}
+
+#navbar {
+    background-color:transparent;
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+
+.card-header {
+    background-image: url(../assets/pexels-photo-3707669.jpeg);
+    background-color:rgb(104, 137, 139);
+    color: rgb(249, 252, 251);
+}
+
+.card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
+
+
+.material-icons {
+    color:turquoise;
+}
+
