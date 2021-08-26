@@ -1,7 +1,7 @@
 {
   "name": "team-profileGenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Readme Generator](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Team%20profile%20-generator.jpg?raw=true)",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ahrumnoh/team-profileGenerator#readme",
   "dependencies": {
-    "badmath": "^1.0.1"
-  }
+    "badmath": "^1.0.1",
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {}
 }

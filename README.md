@@ -28,14 +28,12 @@ This program is a perfect tool to manage all members of organization and company
 ## Installation 
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
 
-* ✔$ git clone 
-* ✔$ npm install --save-dev
+* ✔$ npm init -y
+* ✔$ npm install
+* ✔$ npm install inquirer
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.
-
-## Tests
-Run `npm test` to run Jest for tests on constructors. 
+* ✔$ node index.js
 
 
 ## 😎 What can you add in this ganerator ?
