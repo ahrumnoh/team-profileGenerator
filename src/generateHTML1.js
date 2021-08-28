@@ -28,7 +28,7 @@ const handleEngineer = function (engineer) {
         <div class="card h-100">
             <div class="card-header">
               <h3>${engineer.name}</h3>
-              <h4>Engineer</h4><i class="fa fa-laptop" aria-hidden="true"></i>
+              <h4>Engineer</h4><span class="material-icons">manage_accounts</span>
             </div>
 
             <div class="card-body">

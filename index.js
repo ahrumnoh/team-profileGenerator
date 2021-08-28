@@ -211,7 +211,9 @@ const writeFile = data => {
 
         ===================================================
 
-        💻Please check out the index1.html in dist folder
+                              💻
+                              
+        Please check out the 'index1.html' in dist folder
         ===================================================
         
         `)
