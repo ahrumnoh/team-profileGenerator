@@ -5,7 +5,7 @@ const handleManager = function (manager) {
         <div class="card h-100">
             <div class="card-header">
               <h3>${manager.name}</h3>
-              <h4>Manager</h4><i class="fa fa-diamond" aria-hidden="true"></i>
+              <h4>Manager</h4><span class="material-icons">manager</span>
             </div>
 
             <div class="card-body-wrapper">
@@ -28,7 +28,7 @@ const handleEngineer = function (engineer) {
         <div class="card h-100">
             <div class="card-header">
               <h3>${engineer.name}</h3>
-              <h4>Engineer</h4><span class="material-icons">manage_accounts</span>
+              <h4>Engineer</h4><i class="material-icons">laptop_mac</i>
             </div>
 
             <div class="card-body">
@@ -53,7 +53,7 @@ const handleIntern = function (intern) {
         <div class="card h-100">
             <div class="card-header">
               <h3>${intern.name}</h3>
-              <h4>Intern</h4><i class="fa fa-pencil" aria-hidden="true"></i>
+              <h4>Intern</h4><span class="material-icons">child_care</span>
             </div>
 
             <div class="card-body">
