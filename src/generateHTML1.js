@@ -1,4 +1,4 @@
-// to make Manager 😎
+// to make Manager card😎
 const handleManager = function (manager) {
     return `
     <div class="col-4 mt-4">
@@ -20,7 +20,7 @@ const handleManager = function (manager) {
 
 
 
-//to make Engineer 💻
+//to make Engineer card💻
 
 const handleEngineer = function (engineer) {
     return `
@@ -43,7 +43,7 @@ const handleEngineer = function (engineer) {
 
 
 
-//to make Intern 🌱
+//to make Intern card🌱
 
 
 
@@ -165,4 +165,4 @@ const generateTeamPage = function (employeeInfoCards) {
 }
 
 
-module.exports = generateHTMLl;
+module.exports = generateHTML1;

@@ -70,7 +70,7 @@ const addManager = () => {
     ])
     .then(managerInput => {
         const  { name, id, email, officeNumber } = managerInput; 
-        const manager = new Manager (name, id, email, officeNumber);
+        const manager = new Manager1 (name, id, email, officeNumber);
 
         teamArray.push(manager); 
         console.log(manager); 
@@ -134,13 +134,13 @@ const addEmployee = () => {
         {
             type: 'input',
             name: 'github',
-            message: "Please enter the employee's github username.",
-            when: (input) => input.role === "Engineer1",
+            message: "Please enter the engineer's github username.",
+            when: (input) => input.role === "Engineer",
             validate: nameInput => {
                 if (nameInput ) {
                     return true;
                 } else {
-                    console.log ("Please enter the employee's github username!")
+                    console.log ("Please enter the engineer's github username!")
                 }
             }
         },
@@ -148,7 +148,7 @@ const addEmployee = () => {
             type: 'input',
             name: 'University',
             message: "Please enter the intern's University",
-            when: (input) => input.role === "Intern1",
+            when: (input) => input.role === "Intern",
             validate: nameInput => {
                 if (nameInput) {
                     return true;
@@ -170,13 +170,13 @@ const addEmployee = () => {
         let { name, id, email, role, github, university, confirmAddEmployee } = employeeData; 
         let employee; 
 
-        if (role === "Engineer1") {
-            employee = new Engineer (name, id, email, github);
+        if (role === "Engineer") {
+            employee = new Engineer1 (name, id, email, github);
 
             console.log(employee);
 
-        } else if (role === "Intern1") {
-            employee = new Intern (name, id, email, university);
+        } else if (role === "Intern") {
+            employee = new Intern1 (name, id, email, university);
 
             console.log(employee);
         }
