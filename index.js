@@ -79,9 +79,9 @@ const addManager = () => {
 
 const addEmployee = () => {
     console.log(`
-    ===========================================
-    Welcome to employees's section to the team
-    ===========================================
+    ==============================================
+    🚩 Welcome to employees's section to the team
+    ==============================================
     `);
 
     return inquirer.prompt ([
@@ -146,7 +146,7 @@ const addEmployee = () => {
         },
         {
             type: 'input',
-            name: 'University',
+            name: 'university',
             message: "Please enter the intern's University",
             when: (input) => input.role === "Intern",
             validate: nameInput => {
@@ -202,7 +202,19 @@ const writeFile = data => {
             return;
         // when the profile has been created 
         } else {
-            console.log("Your team profile has been successfully created! Please check out the index1.html")
+            console.log(`
+        ===================================================
+                       🎇✨Congrats!✨🎇
+        ===================================================
+          
+          Your team profile has been successfully created! 
+
+        ===================================================
+
+        💻Please check out the index1.html in dist folder
+        ===================================================
+        
+        `)
         }
     })
 }; 
