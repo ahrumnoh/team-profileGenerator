@@ -21,7 +21,7 @@ This program is a perfect tool to manage all members of organization and company
 
 
 ## A finalized actual sample for README FILE
-![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(43).png?raw=true)
+![Intro Mockup FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(43).png?raw=true)
 
 * ✔beautiful frame
 * ✔Easy to manage
@@ -48,7 +48,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 
 ## Delightful JavaScript Testing
-![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(43).png?raw=true)
+![JEST](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(53).png?raw=true)
 * npm install --save-dev 
 * npm run test / npm test
 
