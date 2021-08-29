@@ -10,8 +10,18 @@ This program is a perfect tool to manage all members of organization and company
 
 
 
+
+
+## The process to create informations of Emloyees at terminal using VS code
+![VS terminal image1](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(41).png)
+
+![VS terminal image2](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(42).png?raw=true)
+
+
+
+
 ## A finalized actual sample for README FILE
-![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/2021-08-08%20(3).png?raw=true)
+![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(43).png?raw=true)
 
 * ✔beautiful frame
 * ✔Easy to manage
