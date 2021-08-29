@@ -6,24 +6,35 @@
     align-content: center;
 }
 
-:root {
-    --primary: rgba(104, 137, 139, 0.295);
-    --secondary: rgba(255, 255, 255, 0.329);
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://source.unsplash.com/1600x900/?camping");
+    background-image: url("https://source.unsplash.com/1600x900/?grey");
 }
 
 h1 {
     text-align: center;
-    color: blue;
+    color: rgb(253, 255, 255);
+    text-shadow: 5px 5px 5px #000c0bd7;
+    padding-top: 4%;
+}
+
+h3 {
+    font-size: 17px;
+    text-align: center;
+    font: bold;
+    color: black;
+}
+
+h4 {
+    font-size: 23px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .card-header {
-    background-color:rgb(0, 0, 0);
-    color: rgb(69, 243, 243);
+    background:rgba(7, 7, 7, 0.356);
+    color: rgb(20, 22, 22);
 }
 
 .card-body {
@@ -40,6 +51,6 @@ h1 {
 
 
 .material-icons {
-    color:turquoise;
+    color:rgb(151, 104, 2);
 }
 
