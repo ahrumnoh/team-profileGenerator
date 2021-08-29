@@ -49,8 +49,8 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Delightful JavaScript Testing
 ![JEST](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(53).png?raw=true)
-* npm install --save-dev 
-* npm run test / npm test
+* 🚦  npm install --save-dev 
+* 🧮 npm run test / npm test
 
 
 
