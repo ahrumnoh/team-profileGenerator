@@ -47,6 +47,14 @@ The user should clone the repository from GitHub and download Node. This applica
 * ✔$ node index.js
 
 
+## Delightful JavaScript Testing
+![README FILE](https://github.com/ahrumnoh/team-profileGenerator/blob/main/assets/Screenshot%20(43).png?raw=true)
+* npm install --save-dev 
+* npm run test / npm test
+
+
+
+
 ## 😎 What can you add in this ganerator ?
 
 * my team members and their information
