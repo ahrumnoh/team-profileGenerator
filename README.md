@@ -43,6 +43,7 @@ The user should clone the repository from GitHub and download Node. This applica
 * ✔$ npm install inquirer
 
 ## Usage 
+* ✔$ npm start
 * ✔$ node index.js
 
 
