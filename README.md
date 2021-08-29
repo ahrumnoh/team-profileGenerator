@@ -30,7 +30,7 @@ This program is a perfect tool to manage all members of organization and company
 
 ## 🚩How to execute it? Check the video for instruction
  * Click the picture below 👇👇👇
-[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1pOITXSYfYEfz9ZRY6YU4tQz2UqKvEvhb/view)
+[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1VywhcNPCCeLjHBKLK6Z87MNL8ri3O8xK/view)
 
 
 
